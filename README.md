@@ -16,7 +16,6 @@
 [<img align="left" alt="lahirulakshan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="lahirulakshan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][gmail]
 [<img align="left" alt="lahirulakshan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lahirulakshan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
 ##
@@ -38,7 +37,7 @@
 
 [website]: https://savinkisunu.web.app/
 [instagram]: https://www.instagram.com/savi.kis/
-[gmail]: sl.programerz@gmail.com
+[gmail]: mailto:sl.programerz@gmail.com
 [linkedin]: https://www.linkedin.com/in/savin-kisunu/
 
 
